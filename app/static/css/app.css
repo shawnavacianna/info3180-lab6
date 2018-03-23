@@ -5,3 +5,10 @@ body {
 footer  {
     padding-top: 20px;
 }
+
+.center-news
+{
+    width: 50%;
+    margin:0 auto;
+    text-align:center;
+}
